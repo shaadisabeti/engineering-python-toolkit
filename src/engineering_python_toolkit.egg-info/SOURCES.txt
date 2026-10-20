@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/engineering_python_toolkit.egg-info/PKG-INFO
+src/engineering_python_toolkit.egg-info/SOURCES.txt
+src/engineering_python_toolkit.egg-info/dependency_links.txt
+src/engineering_python_toolkit.egg-info/top_level.txt
+src/engineering_toolkit/structures.py
+tests/test_structures.py

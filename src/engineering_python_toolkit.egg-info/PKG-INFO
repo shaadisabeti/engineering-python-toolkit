@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: engineering-python-toolkit
+Version: 0.1.0
+Summary: Python tools for engineering analysis and automation
+Requires-Python: >=3.12
