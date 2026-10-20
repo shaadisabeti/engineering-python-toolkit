@@ -17,3 +17,8 @@ env/
 
 # VS Code local settings
 .vscode/
+
+# Python packaging artifacts
+*.egg-info/
+build/
+dist/
